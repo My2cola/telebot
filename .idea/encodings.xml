@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/mainDerectory/RiotUpdates/news_lol.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/mainDerectory/news_FallGys.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/mainDerectory/news_Fortnite.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/mainDerectory/news_Genshin.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/mainDerectory/news_Warface.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/mainDerectory/news_dict.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/mainDerectory/news_hearthstone.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/mainDerectory/news_lol.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/mainDerectory/news_warzon.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/mainDerectory/news_wot.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/mainDerectory/steam/news_warzon.json" charset="windows-1251" />
+  </component>
+</project>

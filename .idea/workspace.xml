@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d26111c-5e5c-402d-8779-f32da84ab928" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/amongus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/apex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/bot_steam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/fall_guys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/fortnite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/genshin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/hearstone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/kb_back.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/kb_batleNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/kb_epic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/kb_lesta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/kb_riot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/kb_steam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/lol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/parsVal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/warface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/warzone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keybords/default/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keybords/default/keybor_riot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keybords/default/keybord_backLaucher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keybords/default/keybord_battleNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keybords/default/keybord_epic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keybords/default/keybord_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keybords/default/keybord_lesta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keybords/default/keybord_menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keybords/default/keybord_steam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keybords/default/keybordstest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/notify_admins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/set_bot_commands.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Setup Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LVIxsYpd8vwe5NG6plpCyTgm8y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/consoleUpdateBot-main/pp&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\consoleUpdateBot-main\pp\handlers\users" />
+      <recent name="C:\Users\User\Desktop\consoleUpdateBot-main\pp" />
+      <recent name="C:\Users\User\Desktop\consoleUpdateBot-main\pp\mainDerectory\steam" />
+      <recent name="C:\Users\User\Desktop\consoleUpdateBot-main\pp\mainDerectory" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/handlers/users" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/handlers/users/hello.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="parsVal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/handlers/users" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/handlers/users/parsVal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/setup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="warface" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/handlers/users" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/handlers/users/warface.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.setup" />
+        <item itemvalue="Python.warface" />
+        <item itemvalue="Python.parsVal" />
+        <item itemvalue="Python.hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d26111c-5e5c-402d-8779-f32da84ab928" name="Changes" comment="" />
+      <created>1675950072541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675950072541</updated>
+    </task>
+    <servers />
+  </component>
+</project>
